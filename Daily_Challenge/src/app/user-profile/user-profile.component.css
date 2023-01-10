@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+div {
+    margin-left: 40%;
+    margin-top: 5%;
+}
+
+p {
+    padding-left: 45px;
+}
